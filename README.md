@@ -1,0 +1,3 @@
+Honestly, completely garbage bot, contains alot of useless features, contains alot of shit-code and more more...
+There are FEW kinda good and interesting features, other than that - it is half broken bot:
+Broken economy, dev commands, trash moderation, shit tickets (for good ticket bot see https://github.com/MizaruWareCC/discord-ticket-bot), some roblox api shit and other minor features.
